@@ -1,0 +1,504 @@
+[13-Apr-2021 04:50:36 UTC] PHP Notice:  Undefined index: stdLev in /home/escohsti/public_html/applications/acceptance/payments.php on line 227
+[13-Apr-2021 04:50:36 UTC] PHP Notice:  Undefined index: citizen in /home/escohsti/public_html/applications/acceptance/payments.php on line 228
+[13-Apr-2021 04:54:38 UTC] PHP Notice:  Undefined index: stdLev in /home/escohsti/public_html/applications/acceptance/payments.php on line 227
+[13-Apr-2021 04:54:38 UTC] PHP Notice:  Undefined index: citizen in /home/escohsti/public_html/applications/acceptance/payments.php on line 228
+[13-Apr-2021 04:56:32 UTC] PHP Notice:  Undefined index: stdLev in /home/escohsti/public_html/applications/acceptance/payments.php on line 227
+[13-Apr-2021 04:56:32 UTC] PHP Notice:  Undefined index: citizen in /home/escohsti/public_html/applications/acceptance/payments.php on line 228
+[13-Apr-2021 04:59:31 UTC] PHP Notice:  Undefined index: stdLev in /home/escohsti/public_html/applications/acceptance/payments.php on line 227
+[13-Apr-2021 04:59:31 UTC] PHP Notice:  Undefined index: citizen in /home/escohsti/public_html/applications/acceptance/payments.php on line 228
+[13-Apr-2021 04:59:45 UTC] PHP Notice:  Undefined index: stdLev in /home/escohsti/public_html/applications/acceptance/payments.php on line 227
+[13-Apr-2021 04:59:45 UTC] PHP Notice:  Undefined index: citizen in /home/escohsti/public_html/applications/acceptance/payments.php on line 228
+[13-Apr-2021 05:00:20 UTC] PHP Notice:  Undefined index: stdLev in /home/escohsti/public_html/applications/acceptance/payments.php on line 227
+[13-Apr-2021 05:00:20 UTC] PHP Notice:  Undefined index: citizen in /home/escohsti/public_html/applications/acceptance/payments.php on line 228
+[13-Apr-2021 05:00:25 UTC] PHP Notice:  Undefined index: stdLev in /home/escohsti/public_html/applications/acceptance/payments.php on line 227
+[13-Apr-2021 05:00:25 UTC] PHP Notice:  Undefined index: citizen in /home/escohsti/public_html/applications/acceptance/payments.php on line 228
+[13-Apr-2021 05:02:14 UTC] PHP Notice:  Undefined index: stdLev in /home/escohsti/public_html/applications/acceptance/payments.php on line 227
+[13-Apr-2021 05:02:14 UTC] PHP Notice:  Undefined index: citizen in /home/escohsti/public_html/applications/acceptance/payments.php on line 228
+[13-Apr-2021 05:31:36 UTC] PHP Notice:  Undefined index: totalDue in /home/escohsti/public_html/applications/acceptance/payments.php on line 28
+[13-Apr-2021 05:39:06 UTC] PHP Notice:  Undefined index: sts in /home/escohsti/public_html/applications/acceptance/payments.php on line 28
+[13-Apr-2021 05:41:18 UTC] PHP Notice:  Undefined index: sts in /home/escohsti/public_html/applications/acceptance/payments.php on line 28
+[13-Apr-2021 05:44:33 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 42
+[13-Apr-2021 05:44:33 UTC] PHP Notice:  Undefined index: fname in /home/escohsti/public_html/applications/acceptance/payments.php on line 43
+[13-Apr-2021 05:44:33 UTC] PHP Notice:  Undefined index: lname in /home/escohsti/public_html/applications/acceptance/payments.php on line 44
+[13-Apr-2021 05:44:35 UTC] PHP Notice:  Undefined index: fname in /home/escohsti/public_html/applications/acceptance/completePayments.php on line 184
+[13-Apr-2021 05:44:35 UTC] PHP Notice:  Undefined index: lname in /home/escohsti/public_html/applications/acceptance/completePayments.php on line 185
+[13-Apr-2021 05:49:13 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 42
+[13-Apr-2021 05:49:13 UTC] PHP Notice:  Undefined index: fname in /home/escohsti/public_html/applications/acceptance/payments.php on line 43
+[13-Apr-2021 05:49:13 UTC] PHP Notice:  Undefined index: lname in /home/escohsti/public_html/applications/acceptance/payments.php on line 44
+[13-Apr-2021 05:49:14 UTC] PHP Notice:  Undefined index: fname in /home/escohsti/public_html/applications/acceptance/completePayments.php on line 184
+[13-Apr-2021 05:49:14 UTC] PHP Notice:  Undefined index: lname in /home/escohsti/public_html/applications/acceptance/completePayments.php on line 185
+[13-Apr-2021 05:49:36 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 42
+[13-Apr-2021 05:52:12 UTC] PHP Notice:  Undefined variable: stdCode in /home/escohsti/public_html/applications/acceptance/receipts.php on line 194
+[13-Apr-2021 05:52:12 UTC] PHP Notice:  Undefined variable: fname in /home/escohsti/public_html/applications/acceptance/receipts.php on line 202
+[13-Apr-2021 05:52:12 UTC] PHP Notice:  Undefined variable: midName in /home/escohsti/public_html/applications/acceptance/receipts.php on line 202
+[13-Apr-2021 05:52:12 UTC] PHP Notice:  Undefined variable: lname in /home/escohsti/public_html/applications/acceptance/receipts.php on line 202
+[13-Apr-2021 05:52:12 UTC] PHP Warning:  Use of undefined constant weekday - assumed 'weekday' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/receipts.php on line 276
+[13-Apr-2021 05:52:12 UTC] PHP Warning:  Use of undefined constant month - assumed 'month' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/receipts.php on line 276
+[13-Apr-2021 05:52:12 UTC] PHP Warning:  Use of undefined constant mday - assumed 'mday' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/receipts.php on line 276
+[13-Apr-2021 05:52:12 UTC] PHP Warning:  Use of undefined constant year - assumed 'year' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/receipts.php on line 276
+[13-Apr-2021 05:54:43 UTC] PHP Notice:  Undefined variable: midName in /home/escohsti/public_html/applications/acceptance/receipts.php on line 202
+[13-Apr-2021 05:54:43 UTC] PHP Warning:  Use of undefined constant weekday - assumed 'weekday' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/receipts.php on line 276
+[13-Apr-2021 05:54:43 UTC] PHP Warning:  Use of undefined constant month - assumed 'month' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/receipts.php on line 276
+[13-Apr-2021 05:54:43 UTC] PHP Warning:  Use of undefined constant mday - assumed 'mday' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/receipts.php on line 276
+[13-Apr-2021 05:54:43 UTC] PHP Warning:  Use of undefined constant year - assumed 'year' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/receipts.php on line 276
+[13-Apr-2021 05:55:56 UTC] PHP Notice:  Undefined variable: midName in /home/escohsti/public_html/applications/acceptance/receipts.php on line 202
+[13-Apr-2021 05:55:56 UTC] PHP Warning:  Use of undefined constant weekday - assumed 'weekday' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/receipts.php on line 276
+[13-Apr-2021 05:55:56 UTC] PHP Warning:  Use of undefined constant month - assumed 'month' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/receipts.php on line 276
+[13-Apr-2021 05:55:56 UTC] PHP Warning:  Use of undefined constant mday - assumed 'mday' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/receipts.php on line 276
+[13-Apr-2021 05:55:56 UTC] PHP Warning:  Use of undefined constant year - assumed 'year' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/receipts.php on line 276
+[13-Apr-2021 05:58:20 UTC] PHP Notice:  Undefined variable: midName in /home/escohsti/public_html/applications/acceptance/receipts.php on line 202
+[13-Apr-2021 05:58:20 UTC] PHP Warning:  Use of undefined constant weekday - assumed 'weekday' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/receipts.php on line 276
+[13-Apr-2021 05:58:20 UTC] PHP Warning:  Use of undefined constant month - assumed 'month' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/receipts.php on line 276
+[13-Apr-2021 05:58:20 UTC] PHP Warning:  Use of undefined constant mday - assumed 'mday' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/receipts.php on line 276
+[13-Apr-2021 05:58:20 UTC] PHP Warning:  Use of undefined constant year - assumed 'year' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/receipts.php on line 276
+[13-Apr-2021 06:00:35 UTC] PHP Notice:  Undefined variable: midName in /home/escohsti/public_html/applications/acceptance/receipts.php on line 202
+[13-Apr-2021 06:00:35 UTC] PHP Warning:  Use of undefined constant weekday - assumed 'weekday' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/receipts.php on line 276
+[13-Apr-2021 06:00:35 UTC] PHP Warning:  Use of undefined constant month - assumed 'month' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/receipts.php on line 276
+[13-Apr-2021 06:00:35 UTC] PHP Warning:  Use of undefined constant mday - assumed 'mday' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/receipts.php on line 276
+[13-Apr-2021 06:00:35 UTC] PHP Warning:  Use of undefined constant year - assumed 'year' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/receipts.php on line 276
+[13-Apr-2021 06:02:36 UTC] PHP Notice:  Undefined variable: midName in /home/escohsti/public_html/applications/acceptance/receipts.php on line 202
+[13-Apr-2021 06:02:36 UTC] PHP Warning:  Use of undefined constant weekday - assumed 'weekday' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/receipts.php on line 276
+[13-Apr-2021 06:02:36 UTC] PHP Warning:  Use of undefined constant month - assumed 'month' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/receipts.php on line 276
+[13-Apr-2021 06:02:36 UTC] PHP Warning:  Use of undefined constant mday - assumed 'mday' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/receipts.php on line 276
+[13-Apr-2021 06:02:36 UTC] PHP Warning:  Use of undefined constant year - assumed 'year' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/receipts.php on line 276
+[13-Apr-2021 06:09:01 UTC] PHP Notice:  Undefined variable: midName in /home/escohsti/public_html/applications/acceptance/receipts.php on line 203
+[13-Apr-2021 06:09:01 UTC] PHP Warning:  Use of undefined constant weekday - assumed 'weekday' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/receipts.php on line 277
+[13-Apr-2021 06:09:01 UTC] PHP Warning:  Use of undefined constant month - assumed 'month' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/receipts.php on line 277
+[13-Apr-2021 06:09:01 UTC] PHP Warning:  Use of undefined constant mday - assumed 'mday' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/receipts.php on line 277
+[13-Apr-2021 06:09:01 UTC] PHP Warning:  Use of undefined constant year - assumed 'year' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/receipts.php on line 277
+[22-Apr-2021 17:00:15 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 42
+[26-Apr-2021 07:48:48 UTC] PHP Notice:  Undefined index: userID in /home/escohsti/public_html/applications/functions.php on line 83
+[26-Apr-2021 07:48:48 UTC] PHP Notice:  Undefined index: userID in /home/escohsti/public_html/applications/acceptance/payments.php on line 7
+[07-May-2021 10:27:56 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 42
+[07-May-2021 10:29:26 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 42
+[07-May-2021 10:29:44 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 42
+[07-May-2021 10:32:38 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 42
+[07-May-2021 10:38:13 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 42
+[07-May-2021 10:39:18 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 42
+[07-May-2021 10:42:58 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 42
+[07-May-2021 11:15:57 UTC] PHP Notice:  Undefined index: userID in /home/escohsti/public_html/applications/acceptance/payments.php on line 7
+[07-May-2021 11:16:03 UTC] PHP Notice:  Undefined index: userID in /home/escohsti/public_html/applications/acceptance/payments.php on line 7
+[07-May-2021 11:16:25 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 42
+[07-May-2021 11:17:48 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 42
+[07-May-2021 11:34:14 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 42
+[07-May-2021 11:34:14 UTC] PHP Notice:  Undefined index: refNum in /home/escohsti/public_html/applications/acceptance/payments.php on line 45
+[07-May-2021 11:36:31 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 42
+[07-May-2021 11:36:31 UTC] PHP Notice:  Undefined index: refNum in /home/escohsti/public_html/applications/acceptance/payments.php on line 45
+[07-May-2021 11:38:02 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 42
+[07-May-2021 11:38:02 UTC] PHP Notice:  Undefined index: refNum in /home/escohsti/public_html/applications/acceptance/payments.php on line 45
+[07-May-2021 11:43:34 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 44
+[07-May-2021 11:43:34 UTC] PHP Notice:  Undefined variable: refNum in /home/escohsti/public_html/applications/acceptance/payments.php on line 55
+[07-May-2021 11:45:32 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 44
+[07-May-2021 11:45:32 UTC] PHP Notice:  Undefined variable: refNum in /home/escohsti/public_html/applications/acceptance/payments.php on line 55
+[07-May-2021 11:45:33 UTC] PHP Notice:  Undefined variable: _SESSION in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 4
+[07-May-2021 11:45:33 UTC] PHP Notice:  Undefined variable: _SESSION in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 10
+[07-May-2021 11:46:30 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 44
+[07-May-2021 11:46:30 UTC] PHP Notice:  Undefined variable: refNum in /home/escohsti/public_html/applications/acceptance/payments.php on line 49
+[07-May-2021 11:46:30 UTC] PHP Notice:  Undefined variable: refNum in /home/escohsti/public_html/applications/acceptance/payments.php on line 55
+[07-May-2021 11:46:30 UTC] PHP Notice:  Undefined variable: _SESSION in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 4
+[07-May-2021 11:46:30 UTC] PHP Notice:  Undefined variable: _SESSION in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 10
+[07-May-2021 11:46:44 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 44
+[07-May-2021 11:46:44 UTC] PHP Notice:  Undefined variable: refNum in /home/escohsti/public_html/applications/acceptance/payments.php on line 49
+[07-May-2021 11:46:44 UTC] PHP Notice:  Undefined variable: refNum in /home/escohsti/public_html/applications/acceptance/payments.php on line 55
+[07-May-2021 11:46:44 UTC] PHP Notice:  Undefined variable: _SESSION in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 4
+[07-May-2021 11:46:44 UTC] PHP Notice:  Undefined variable: _SESSION in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 10
+[07-May-2021 11:47:21 UTC] PHP Warning:  Use of undefined constant SESSION - assumed 'SESSION' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 7
+[07-May-2021 11:47:21 UTC] PHP Warning:  Illegal string offset 'amt' in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 7
+[07-May-2021 11:48:50 UTC] PHP Warning:  Use of undefined constant SESSION - assumed 'SESSION' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 7
+[07-May-2021 11:48:50 UTC] PHP Warning:  Illegal string offset 'amt' in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 7
+[07-May-2021 11:49:32 UTC] PHP Warning:  Use of undefined constant SESSION - assumed 'SESSION' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 7
+[07-May-2021 11:49:32 UTC] PHP Warning:  Illegal string offset 'amt' in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 7
+[07-May-2021 11:49:46 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 44
+[07-May-2021 11:49:46 UTC] PHP Notice:  Undefined variable: refNum in /home/escohsti/public_html/applications/acceptance/payments.php on line 49
+[07-May-2021 11:49:46 UTC] PHP Notice:  Undefined variable: refNum in /home/escohsti/public_html/applications/acceptance/payments.php on line 55
+[07-May-2021 11:49:46 UTC] PHP Warning:  Use of undefined constant SESSION - assumed 'SESSION' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 7
+[07-May-2021 11:49:46 UTC] PHP Warning:  Illegal string offset 'amt' in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 7
+[07-May-2021 11:50:47 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 44
+[07-May-2021 11:50:47 UTC] PHP Notice:  Undefined variable: refNum in /home/escohsti/public_html/applications/acceptance/payments.php on line 49
+[07-May-2021 11:50:47 UTC] PHP Notice:  Undefined variable: refNum in /home/escohsti/public_html/applications/acceptance/payments.php on line 55
+[07-May-2021 11:57:16 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 44
+[07-May-2021 11:58:37 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 44
+[07-May-2021 11:59:32 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 44
+[07-May-2021 12:04:36 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 44
+[07-May-2021 12:07:55 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 44
+[07-May-2021 12:10:44 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 44
+[07-May-2021 12:12:19 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 44
+[07-May-2021 12:13:45 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 44
+[07-May-2021 12:15:57 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 44
+[07-May-2021 12:39:29 UTC] PHP Notice:  Undefined index: userID in /home/escohsti/public_html/applications/acceptance/payments.php on line 7
+[07-May-2021 12:40:40 UTC] PHP Parse error:  syntax error, unexpected '2547916' (T_LNUMBER), expecting ')' in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 34
+[07-May-2021 12:52:24 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 44
+[07-May-2021 16:00:44 UTC] PHP Notice:  Undefined index: refnum in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 5
+[07-May-2021 16:00:44 UTC] PHP Notice:  Undefined index: amt in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 11
+[07-May-2021 22:51:24 UTC] PHP Notice:  Undefined index: refnum in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 5
+[07-May-2021 22:51:24 UTC] PHP Notice:  Undefined index: amt in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 11
+[07-May-2021 22:56:10 UTC] PHP Notice:  Undefined index: userID in /home/escohsti/public_html/applications/acceptance/payments.php on line 7
+[08-May-2021 00:46:16 UTC] PHP Notice:  Undefined index: refnum in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 5
+[08-May-2021 00:46:16 UTC] PHP Notice:  Undefined index: amt in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 11
+[08-May-2021 13:19:18 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 44
+[08-May-2021 13:38:52 UTC] PHP Parse error:  syntax error, unexpected 'Authorization' (T_STRING), expecting ')' in /home/escohsti/public_html/applications/acceptance/rm.php on line 71
+[08-May-2021 14:30:47 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 44
+[09-May-2021 02:04:21 UTC] PHP Notice:  Undefined index: refnum in /home/escohsti/public_html/applications/acceptance/rm.php on line 8
+[09-May-2021 02:04:21 UTC] PHP Notice:  Undefined index: amt in /home/escohsti/public_html/applications/acceptance/rm.php on line 14
+[09-May-2021 02:05:04 UTC] PHP Notice:  Undefined index: refnum in /home/escohsti/public_html/applications/acceptance/rm.php on line 8
+[09-May-2021 02:05:04 UTC] PHP Notice:  Undefined index: amt in /home/escohsti/public_html/applications/acceptance/rm.php on line 14
+[09-May-2021 02:14:10 UTC] PHP Notice:  Undefined index: refnum in /home/escohsti/public_html/applications/acceptance/rm.php on line 8
+[09-May-2021 02:14:10 UTC] PHP Notice:  Undefined index: amt in /home/escohsti/public_html/applications/acceptance/rm.php on line 14
+[09-May-2021 02:14:19 UTC] PHP Notice:  Undefined index: refnum in /home/escohsti/public_html/applications/acceptance/rm.php on line 8
+[09-May-2021 02:14:19 UTC] PHP Notice:  Undefined index: amt in /home/escohsti/public_html/applications/acceptance/rm.php on line 14
+[09-May-2021 02:14:21 UTC] PHP Notice:  Undefined index: refnum in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 5
+[09-May-2021 02:14:21 UTC] PHP Notice:  Undefined index: amt in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 11
+[09-May-2021 02:14:22 UTC] PHP Notice:  Undefined index: userID in /home/escohsti/public_html/applications/acceptance/payments.php on line 7
+[09-May-2021 02:14:28 UTC] PHP Notice:  Undefined index: amt in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 11
+[09-May-2021 02:38:03 UTC] PHP Warning:  Use of undefined constant CURLOPT_RETURN_TRANSFER - assumed 'CURLOPT_RETURN_TRANSFER' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/notification.php on line 9
+[09-May-2021 02:38:03 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be int, string given in /home/escohsti/public_html/applications/acceptance/notification.php on line 9
+[09-May-2021 02:49:46 UTC] PHP Warning:  Use of undefined constant CURLOPT_RETURN_TRANSFER - assumed 'CURLOPT_RETURN_TRANSFER' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/notification.php on line 9
+[09-May-2021 02:49:46 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be int, string given in /home/escohsti/public_html/applications/acceptance/notification.php on line 9
+[09-May-2021 02:50:54 UTC] PHP Warning:  Use of undefined constant CURLOPT_RETURN_TRANSFER - assumed 'CURLOPT_RETURN_TRANSFER' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/notification.php on line 9
+[09-May-2021 02:50:54 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be int, string given in /home/escohsti/public_html/applications/acceptance/notification.php on line 9
+[09-May-2021 02:50:54 UTC] PHP Warning:  Use of undefined constant SSL_VERIFY_PEER - assumed 'SSL_VERIFY_PEER' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/notification.php on line 10
+[09-May-2021 02:50:54 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be int, string given in /home/escohsti/public_html/applications/acceptance/notification.php on line 10
+[09-May-2021 02:51:23 UTC] PHP Warning:  Use of undefined constant CURLOPT_RETURN_TRANSFER - assumed 'CURLOPT_RETURN_TRANSFER' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/notification.php on line 9
+[09-May-2021 02:51:23 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be int, string given in /home/escohsti/public_html/applications/acceptance/notification.php on line 9
+[09-May-2021 02:51:39 UTC] PHP Warning:  Use of undefined constant CURLOPT_RETURN_TRANSFER - assumed 'CURLOPT_RETURN_TRANSFER' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/notification.php on line 9
+[09-May-2021 02:51:39 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be int, string given in /home/escohsti/public_html/applications/acceptance/notification.php on line 9
+[09-May-2021 02:52:18 UTC] PHP Warning:  Use of undefined constant CURLOPT_RETURN_TRANSFER - assumed 'CURLOPT_RETURN_TRANSFER' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/notification.php on line 9
+[09-May-2021 02:52:18 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be int, string given in /home/escohsti/public_html/applications/acceptance/notification.php on line 9
+[09-May-2021 02:53:20 UTC] PHP Warning:  Use of undefined constant CURLOPT_RETURN_TRANSFER - assumed 'CURLOPT_RETURN_TRANSFER' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/notification.php on line 9
+[09-May-2021 02:53:20 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be int, string given in /home/escohsti/public_html/applications/acceptance/notification.php on line 9
+[09-May-2021 02:55:51 UTC] PHP Warning:  Use of undefined constant CURLOPT_RETURN_TRANSFER - assumed 'CURLOPT_RETURN_TRANSFER' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/notification.php on line 9
+[09-May-2021 02:55:51 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be int, string given in /home/escohsti/public_html/applications/acceptance/notification.php on line 9
+[09-May-2021 02:56:55 UTC] PHP Warning:  Use of undefined constant CURLOPT_RETURN_TRANSFER - assumed 'CURLOPT_RETURN_TRANSFER' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/notification.php on line 9
+[09-May-2021 02:56:55 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be int, string given in /home/escohsti/public_html/applications/acceptance/notification.php on line 9
+[09-May-2021 03:06:58 UTC] PHP Warning:  Use of undefined constant CURLOPT_RETURN_TRANSFER - assumed 'CURLOPT_RETURN_TRANSFER' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/notification.php on line 9
+[09-May-2021 03:06:58 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be int, string given in /home/escohsti/public_html/applications/acceptance/notification.php on line 9
+[09-May-2021 03:07:32 UTC] PHP Warning:  Use of undefined constant CURLOPT_RETURN_TRANSFER - assumed 'CURLOPT_RETURN_TRANSFER' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/notification.php on line 9
+[09-May-2021 03:07:32 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be int, string given in /home/escohsti/public_html/applications/acceptance/notification.php on line 9
+[09-May-2021 03:10:12 UTC] PHP Warning:  Use of undefined constant CURLOPT_RETURN_TRANSFER - assumed 'CURLOPT_RETURN_TRANSFER' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/notification.php on line 9
+[09-May-2021 03:10:12 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be int, string given in /home/escohsti/public_html/applications/acceptance/notification.php on line 9
+[09-May-2021 06:33:10 UTC] PHP Warning:  Use of undefined constant CURLOPT_RETURN_TRANSFER - assumed 'CURLOPT_RETURN_TRANSFER' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/notification.php on line 9
+[09-May-2021 06:33:10 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be int, string given in /home/escohsti/public_html/applications/acceptance/notification.php on line 9
+[09-May-2021 06:35:52 UTC] PHP Warning:  Use of undefined constant CURLOPT_RETURN_TRANSFER - assumed 'CURLOPT_RETURN_TRANSFER' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/notification.php on line 9
+[09-May-2021 06:35:52 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be int, string given in /home/escohsti/public_html/applications/acceptance/notification.php on line 9
+[09-May-2021 12:41:06 UTC] PHP Notice:  Undefined variable: results in /home/escohsti/public_html/applications/acceptance/rmAccpt.php on line 11
+[09-May-2021 12:41:45 UTC] PHP Notice:  Undefined variable: results in /home/escohsti/public_html/applications/acceptance/rmAccpt.php on line 11
+[09-May-2021 12:42:41 UTC] PHP Notice:  Undefined variable: results in /home/escohsti/public_html/applications/acceptance/rmAccpt.php on line 11
+[09-May-2021 12:44:00 UTC] PHP Warning:  Use of undefined constant CURLOPT_HTTHEADER - assumed 'CURLOPT_HTTHEADER' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/rmAccpt.php on line 8
+[09-May-2021 12:44:00 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be int, string given in /home/escohsti/public_html/applications/acceptance/rmAccpt.php on line 8
+[09-May-2021 12:44:00 UTC] PHP Notice:  Undefined variable: results in /home/escohsti/public_html/applications/acceptance/rmAccpt.php on line 11
+[09-May-2021 12:45:21 UTC] PHP Notice:  Undefined variable: results in /home/escohsti/public_html/applications/acceptance/rmAccpt.php on line 12
+[09-May-2021 12:46:46 UTC] PHP Notice:  Undefined variable: results in /home/escohsti/public_html/applications/acceptance/rmAccpt.php on line 13
+[09-May-2021 12:46:52 UTC] PHP Notice:  Undefined variable: results in /home/escohsti/public_html/applications/acceptance/rmAccpt.php on line 13
+[09-May-2021 12:47:22 UTC] PHP Warning:  Use of undefined constant CURLOPT_RETURN_TRANSFER - assumed 'CURLOPT_RETURN_TRANSFER' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/notification.php on line 10
+[09-May-2021 12:47:22 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be int, string given in /home/escohsti/public_html/applications/acceptance/notification.php on line 10
+[09-May-2021 12:47:24 UTC] PHP Warning:  Use of undefined constant CURLOPT_RETURN_TRANSFER - assumed 'CURLOPT_RETURN_TRANSFER' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/notification.php on line 10
+[09-May-2021 12:47:24 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be int, string given in /home/escohsti/public_html/applications/acceptance/notification.php on line 10
+[09-May-2021 13:04:38 UTC] PHP Notice:  Undefined index: refnum in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 5
+[09-May-2021 13:04:38 UTC] PHP Notice:  Undefined index: amt in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 11
+[09-May-2021 13:04:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function SHA512() in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 17
+[09-May-2021 13:05:25 UTC] PHP Notice:  Undefined index: refnum in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 5
+[09-May-2021 13:05:25 UTC] PHP Notice:  Undefined index: amt in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 11
+[09-May-2021 13:05:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function SHA512() in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 17
+[09-May-2021 13:06:30 UTC] PHP Notice:  Undefined index: refnum in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 5
+[09-May-2021 13:06:30 UTC] PHP Notice:  Undefined index: amt in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 11
+[09-May-2021 13:06:30 UTC] PHP Warning:  Use of undefined constant JSON - assumed 'JSON' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 17
+[09-May-2021 13:06:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function stringify() in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 17
+[09-May-2021 13:07:26 UTC] PHP Notice:  Undefined index: refnum in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 5
+[09-May-2021 13:07:26 UTC] PHP Notice:  Undefined index: amt in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 11
+[09-May-2021 13:07:26 UTC] PHP Warning:  Use of undefined constant JSON - assumed 'JSON' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 18
+[09-May-2021 13:07:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function stringify() in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 18
+[09-May-2021 13:08:05 UTC] PHP Notice:  Undefined index: refnum in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 5
+[09-May-2021 13:08:05 UTC] PHP Notice:  Undefined index: amt in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 11
+[09-May-2021 13:08:05 UTC] PHP Warning:  Use of undefined constant JSON - assumed 'JSON' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 18
+[09-May-2021 13:08:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function stringify() in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 18
+[09-May-2021 13:08:08 UTC] PHP Notice:  Undefined index: refnum in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 5
+[09-May-2021 13:08:08 UTC] PHP Notice:  Undefined index: amt in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 11
+[09-May-2021 13:08:08 UTC] PHP Warning:  Use of undefined constant JSON - assumed 'JSON' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 18
+[09-May-2021 13:08:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function stringify() in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 18
+[09-May-2021 13:12:31 UTC] PHP Warning:  Use of undefined constant CURLOPT_RETURN_TRANSFER - assumed 'CURLOPT_RETURN_TRANSFER' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/notification.php on line 10
+[09-May-2021 13:12:31 UTC] PHP Warning:  curl_setopt() expects parameter 2 to be int, string given in /home/escohsti/public_html/applications/acceptance/notification.php on line 10
+[09-May-2021 13:12:34 UTC] PHP Notice:  Undefined index: refnum in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 5
+[09-May-2021 13:12:34 UTC] PHP Notice:  Undefined index: amt in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 11
+[09-May-2021 13:12:34 UTC] PHP Warning:  Use of undefined constant JSON - assumed 'JSON' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 18
+[09-May-2021 13:12:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function stringify() in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 18
+[09-May-2021 13:13:57 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 44
+[09-May-2021 13:13:58 UTC] PHP Warning:  Use of undefined constant JSON - assumed 'JSON' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 18
+[09-May-2021 13:13:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function stringify() in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 18
+[09-May-2021 13:28:11 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/escohsti/public_html/applications/acceptance/rmAccpt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/rmAccpt.php on line 5
+[09-May-2021 13:28:16 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/escohsti/public_html/applications/acceptance/rmAccpt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/rmAccpt.php on line 5
+[09-May-2021 13:32:27 UTC] PHP Warning:  A non-numeric value encountered in /home/escohsti/public_html/applications/acceptance/rmAccpt.php on line 5
+[09-May-2021 13:32:27 UTC] PHP Warning:  A non-numeric value encountered in /home/escohsti/public_html/applications/acceptance/rmAccpt.php on line 5
+[09-May-2021 13:32:27 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/escohsti/public_html/applications/acceptance/rmAccpt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/rmAccpt.php on line 5
+[09-May-2021 13:32:54 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/escohsti/public_html/applications/acceptance/rmAccpt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/rmAccpt.php on line 5
+[09-May-2021 13:32:57 UTC] PHP Warning:  Use of undefined constant JSON - assumed 'JSON' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 18
+[09-May-2021 13:32:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function stringify() in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 18
+[09-May-2021 13:33:24 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/escohsti/public_html/applications/acceptance/rmAccpt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/rmAccpt.php on line 5
+[09-May-2021 13:33:50 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/escohsti/public_html/applications/acceptance/rmAccpt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/rmAccpt.php on line 5
+[09-May-2021 13:34:33 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/escohsti/public_html/applications/acceptance/rmAccpt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/rmAccpt.php on line 5
+[09-May-2021 13:35:25 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/escohsti/public_html/applications/acceptance/rmAccpt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/rmAccpt.php on line 5
+[09-May-2021 13:35:37 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/escohsti/public_html/applications/acceptance/rmAccpt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/rmAccpt.php on line 5
+[09-May-2021 13:36:06 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/escohsti/public_html/applications/acceptance/rmAccpt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/rmAccpt.php on line 5
+[09-May-2021 13:37:41 UTC] PHP Notice:  Array to string conversion in /home/escohsti/public_html/applications/acceptance/rmAccpt.php on line 11
+[09-May-2021 13:38:12 UTC] PHP Notice:  Array to string conversion in /home/escohsti/public_html/applications/acceptance/rmAccpt.php on line 11
+[09-May-2021 13:38:44 UTC] PHP Notice:  Array to string conversion in /home/escohsti/public_html/applications/acceptance/rmAccpt.php on line 11
+[09-May-2021 13:38:49 UTC] PHP Notice:  Array to string conversion in /home/escohsti/public_html/applications/acceptance/rmAccpt.php on line 11
+[09-May-2021 13:39:12 UTC] PHP Warning:  Use of undefined constant JSON - assumed 'JSON' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 18
+[09-May-2021 13:39:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function stringify() in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 18
+[09-May-2021 13:39:19 UTC] PHP Notice:  Array to string conversion in /home/escohsti/public_html/applications/acceptance/rmAccpt.php on line 11
+[09-May-2021 14:35:17 UTC] PHP Notice:  Undefined index: refnum in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 5
+[09-May-2021 14:35:17 UTC] PHP Notice:  Undefined index: amt in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 11
+[09-May-2021 14:35:17 UTC] PHP Warning:  Use of undefined constant JSON - assumed 'JSON' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 18
+[09-May-2021 14:35:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function stringify() in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 18
+[09-May-2021 14:35:21 UTC] PHP Notice:  Undefined index: refnum in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 5
+[09-May-2021 14:35:21 UTC] PHP Notice:  Undefined index: amt in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 11
+[09-May-2021 14:35:21 UTC] PHP Warning:  Use of undefined constant JSON - assumed 'JSON' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 18
+[09-May-2021 14:35:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function stringify() in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 18
+[09-May-2021 14:36:07 UTC] PHP Notice:  Undefined index: refnum in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 5
+[09-May-2021 14:36:07 UTC] PHP Notice:  Undefined index: amt in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 11
+[09-May-2021 14:36:07 UTC] PHP Warning:  Use of undefined constant JSON - assumed 'JSON' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 18
+[09-May-2021 14:36:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function stringify() in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 18
+[09-May-2021 14:37:43 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ')' in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 39
+[09-May-2021 14:38:36 UTC] PHP Notice:  Undefined index: refnum in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 6
+[09-May-2021 14:38:36 UTC] PHP Notice:  Undefined index: amt in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 12
+[09-May-2021 14:38:36 UTC] PHP Warning:  Use of undefined constant JSON - assumed 'JSON' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 19
+[09-May-2021 14:38:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function stringify() in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 19
+[09-May-2021 14:39:55 UTC] PHP Notice:  Undefined index: refnum in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 6
+[09-May-2021 14:39:55 UTC] PHP Notice:  Undefined index: amt in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 12
+[09-May-2021 14:39:55 UTC] PHP Warning:  Use of undefined constant JSON - assumed 'JSON' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 19
+[09-May-2021 14:39:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function stringify() in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 19
+[09-May-2021 14:42:11 UTC] PHP Notice:  Undefined index: userID in /home/escohsti/public_html/applications/acceptance/payments.php on line 7
+[09-May-2021 14:42:15 UTC] PHP Notice:  Undefined index: amt in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 12
+[09-May-2021 14:42:15 UTC] PHP Warning:  Use of undefined constant JSON - assumed 'JSON' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 19
+[09-May-2021 14:42:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function stringify() in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 19
+[09-May-2021 14:43:11 UTC] PHP Warning:  curl_setopt(): You must pass either an object or an array with the CURLOPT_HTTPHEADER argument in /home/escohsti/public_html/applications/acceptance/rmAccpt.php on line 11
+[09-May-2021 15:31:41 UTC] PHP Warning:  Use of undefined constant CryptoJS - assumed 'CryptoJS' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/rmAccpt.php on line 10
+[09-May-2021 15:31:41 UTC] PHP Warning:  A non-numeric value encountered in /home/escohsti/public_html/applications/acceptance/rmAccpt.php on line 10
+[09-May-2021 15:31:41 UTC] PHP Warning:  A non-numeric value encountered in /home/escohsti/public_html/applications/acceptance/rmAccpt.php on line 10
+[09-May-2021 15:31:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function SHA512() in /home/escohsti/public_html/applications/acceptance/rmAccpt.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/rmAccpt.php on line 10
+[09-May-2021 15:32:57 UTC] PHP Warning:  Use of undefined constant CryptoJS - assumed 'CryptoJS' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/rmAccpt.php on line 10
+[09-May-2021 15:32:57 UTC] PHP Warning:  A non-numeric value encountered in /home/escohsti/public_html/applications/acceptance/rmAccpt.php on line 10
+[09-May-2021 15:32:57 UTC] PHP Warning:  A non-numeric value encountered in /home/escohsti/public_html/applications/acceptance/rmAccpt.php on line 10
+[09-May-2021 15:32:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function SHA512() in /home/escohsti/public_html/applications/acceptance/rmAccpt.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/rmAccpt.php on line 10
+[09-May-2021 20:05:37 UTC] PHP Notice:  Undefined index: refnum in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 6
+[09-May-2021 20:05:37 UTC] PHP Notice:  Undefined index: amt in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 12
+[09-May-2021 20:05:37 UTC] PHP Warning:  Use of undefined constant JSON - assumed 'JSON' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 19
+[09-May-2021 20:05:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function stringify() in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 19
+[09-May-2021 20:14:21 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/escohsti/public_html/applications/acceptance/rmAccpt.php on line 28
+[09-May-2021 20:14:24 UTC] PHP Recoverable fatal error:  Object of class stdClass could not be converted to string in /home/escohsti/public_html/applications/acceptance/rmAccpt.php on line 28
+[09-May-2021 20:16:05 UTC] PHP Notice:  Undefined index: refnum in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 6
+[09-May-2021 20:16:05 UTC] PHP Notice:  Undefined index: amt in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 12
+[09-May-2021 20:16:05 UTC] PHP Warning:  Use of undefined constant JSON - assumed 'JSON' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 19
+[09-May-2021 20:16:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function stringify() in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 19
+[09-May-2021 20:16:46 UTC] PHP Notice:  Undefined index: refnum in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 6
+[09-May-2021 20:16:46 UTC] PHP Notice:  Undefined index: amt in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 12
+[09-May-2021 20:16:46 UTC] PHP Warning:  Use of undefined constant JSON - assumed 'JSON' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 19
+[09-May-2021 20:16:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function stringify() in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 19
+[09-May-2021 20:28:23 UTC] PHP Notice:  Undefined index: refnum in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 6
+[09-May-2021 20:28:23 UTC] PHP Notice:  Undefined index: amt in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 12
+[09-May-2021 20:28:23 UTC] PHP Warning:  Use of undefined constant JSON - assumed 'JSON' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 19
+[09-May-2021 20:28:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function stringify() in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 19
+[09-May-2021 20:32:15 UTC] PHP Notice:  Undefined index: refnum in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 6
+[09-May-2021 20:32:15 UTC] PHP Notice:  Undefined index: amt in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 12
+[09-May-2021 20:32:15 UTC] PHP Warning:  Use of undefined constant JSON - assumed 'JSON' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 19
+[09-May-2021 20:32:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function stringify() in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 19
+[09-May-2021 20:34:53 UTC] PHP Notice:  Undefined index: refnum in /home/escohsti/public_html/applications/acceptance/rm.php on line 8
+[09-May-2021 20:34:53 UTC] PHP Notice:  Undefined index: amt in /home/escohsti/public_html/applications/acceptance/rm.php on line 14
+[09-May-2021 20:34:53 UTC] PHP Warning:  Use of undefined constant JSON - assumed 'JSON' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/rm.php on line 20
+[09-May-2021 20:34:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function stringify() in /home/escohsti/public_html/applications/acceptance/rm.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/rm.php on line 20
+[09-May-2021 20:37:31 UTC] PHP Notice:  Undefined index: refnum in /home/escohsti/public_html/applications/acceptance/rm.php on line 8
+[09-May-2021 20:37:31 UTC] PHP Notice:  Undefined index: amt in /home/escohsti/public_html/applications/acceptance/rm.php on line 14
+[09-May-2021 20:37:31 UTC] PHP Warning:  Use of undefined constant JSON - assumed 'JSON' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/rm.php on line 20
+[09-May-2021 20:37:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function stringify() in /home/escohsti/public_html/applications/acceptance/rm.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/rm.php on line 20
+[09-May-2021 20:39:33 UTC] PHP Notice:  Undefined index: refnum in /home/escohsti/public_html/applications/acceptance/rm.php on line 8
+[09-May-2021 20:39:33 UTC] PHP Notice:  Undefined index: amt in /home/escohsti/public_html/applications/acceptance/rm.php on line 14
+[09-May-2021 20:39:33 UTC] PHP Warning:  Use of undefined constant JSON - assumed 'JSON' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/rm.php on line 20
+[09-May-2021 20:39:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function stringify() in /home/escohsti/public_html/applications/acceptance/rm.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/rm.php on line 20
+[09-May-2021 21:24:46 UTC] PHP Notice:  Undefined index: refnum in /home/escohsti/public_html/applications/acceptance/rm.php on line 14
+[09-May-2021 21:24:46 UTC] PHP Notice:  Undefined index: amt in /home/escohsti/public_html/applications/acceptance/rm.php on line 20
+[09-May-2021 21:24:46 UTC] PHP Warning:  Use of undefined constant JSON - assumed 'JSON' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/rm.php on line 26
+[09-May-2021 21:24:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function stringify() in /home/escohsti/public_html/applications/acceptance/rm.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/rm.php on line 26
+[09-May-2021 21:26:30 UTC] PHP Notice:  Undefined index: refnum in /home/escohsti/public_html/applications/acceptance/rm.php on line 22
+[09-May-2021 21:26:30 UTC] PHP Notice:  Undefined index: amt in /home/escohsti/public_html/applications/acceptance/rm.php on line 28
+[09-May-2021 21:26:30 UTC] PHP Warning:  Use of undefined constant JSON - assumed 'JSON' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/rm.php on line 34
+[09-May-2021 21:26:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function stringify() in /home/escohsti/public_html/applications/acceptance/rm.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/rm.php on line 34
+[09-May-2021 22:01:41 UTC] PHP Notice:  Undefined index: refnum in /home/escohsti/public_html/applications/acceptance/rm.php on line 22
+[09-May-2021 22:01:41 UTC] PHP Notice:  Undefined index: amt in /home/escohsti/public_html/applications/acceptance/rm.php on line 28
+[09-May-2021 22:01:41 UTC] PHP Warning:  Use of undefined constant JSON - assumed 'JSON' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/rm.php on line 34
+[09-May-2021 22:01:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function stringify() in /home/escohsti/public_html/applications/acceptance/rm.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/rm.php on line 34
+[10-May-2021 08:22:48 UTC] PHP Notice:  Undefined index: refnum in /home/escohsti/public_html/applications/acceptance/rm.php on line 22
+[10-May-2021 08:22:48 UTC] PHP Notice:  Undefined index: amt in /home/escohsti/public_html/applications/acceptance/rm.php on line 28
+[10-May-2021 08:22:48 UTC] PHP Warning:  Use of undefined constant JSON - assumed 'JSON' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/rm.php on line 34
+[10-May-2021 08:22:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function stringify() in /home/escohsti/public_html/applications/acceptance/rm.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/rm.php on line 34
+[10-May-2021 09:31:05 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 44
+[10-May-2021 09:31:06 UTC] PHP Warning:  Use of undefined constant JSON - assumed 'JSON' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 19
+[10-May-2021 09:31:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function stringify() in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 19
+[16-May-2021 13:51:45 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 44
+[16-May-2021 13:51:46 UTC] PHP Warning:  Use of undefined constant JSON - assumed 'JSON' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 19
+[16-May-2021 13:51:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function stringify() in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 19
+[16-May-2021 13:52:09 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 44
+[16-May-2021 13:52:09 UTC] PHP Warning:  Use of undefined constant JSON - assumed 'JSON' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 19
+[16-May-2021 13:52:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function stringify() in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 19
+[08-Jun-2021 17:10:48 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 44
+[08-Jun-2021 17:10:49 UTC] PHP Warning:  Use of undefined constant JSON - assumed 'JSON' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 19
+[08-Jun-2021 17:10:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function stringify() in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 19
+[08-Jun-2021 17:15:36 UTC] PHP Notice:  Undefined variable: MerchantID in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 22
+[08-Jun-2021 17:15:36 UTC] PHP Notice:  Undefined variable: ServiceTypeID in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 22
+[08-Jun-2021 17:15:36 UTC] PHP Notice:  Undefined variable: amount in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 22
+[08-Jun-2021 17:15:36 UTC] PHP Notice:  Undefined variable: ApiKey in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 22
+[08-Jun-2021 17:17:26 UTC] PHP Notice:  Undefined variable: MerchantID in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 22
+[08-Jun-2021 17:17:26 UTC] PHP Notice:  Undefined variable: ServiceTypeID in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 22
+[08-Jun-2021 17:17:26 UTC] PHP Notice:  Undefined variable: amount in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 22
+[08-Jun-2021 17:17:26 UTC] PHP Notice:  Undefined variable: ApiKey in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 22
+[08-Jun-2021 17:18:26 UTC] PHP Notice:  Undefined variable: MerchantID in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 22
+[08-Jun-2021 17:18:26 UTC] PHP Notice:  Undefined variable: ServiceTypeID in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 22
+[08-Jun-2021 17:18:26 UTC] PHP Notice:  Undefined variable: amount in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 22
+[08-Jun-2021 17:18:26 UTC] PHP Notice:  Undefined variable: ApiKey in /home/escohsti/public_html/applications/acceptance/remitAcceptance.php on line 22
+[12-Jun-2021 16:05:46 UTC] PHP Notice:  Undefined index: userID in /home/escohsti/public_html/applications/acceptance/payments.php on line 7
+[14-Jun-2021 07:34:36 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 44
+[22-Jun-2021 17:26:05 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 44
+[23-Jun-2021 13:58:25 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 44
+[26-Jun-2021 07:14:59 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 44
+[26-Jun-2021 07:17:57 UTC] PHP Notice:  Undefined index: userID in /home/escohsti/public_html/applications/acceptance/payments.php on line 7
+[11-Oct-2021 13:08:32 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 44
+[11-Oct-2021 14:54:38 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 44
+[11-Oct-2021 14:59:20 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 44
+[11-Oct-2021 14:59:35 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 44
+[11-Oct-2021 15:08:57 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 44
+[11-Oct-2021 15:22:30 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 44
+[11-Oct-2021 15:23:06 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 44
+[11-Oct-2021 15:27:40 UTC] PHP Notice:  Undefined index: userID in /home/escohsti/public_html/applications/acceptance/payments.php on line 7
+[11-Oct-2021 15:36:05 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 44
+[11-Oct-2021 15:41:01 UTC] PHP Notice:  Undefined index: stdLevel in /home/escohsti/public_html/applications/acceptance/payments.php on line 44
+[12-Oct-2021 13:41:08 UTC] PHP Notice:  Undefined index: userID in /home/escohsti/public_html/applications/acceptance/payments.php on line 7

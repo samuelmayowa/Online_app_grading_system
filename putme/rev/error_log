@@ -1,0 +1,22 @@
+[12-Apr-2021 02:53:47 UTC] PHP Notice:  Undefined index: user in /home/escohsti/public_html/applications/rev/invoice.php on line 4
+[12-Apr-2021 02:56:34 UTC] PHP Notice:  Undefined index: user in /home/escohsti/public_html/applications/rev/invoice.php on line 4
+[12-Apr-2021 02:58:35 UTC] PHP Fatal error:  Cannot redeclare getCode() (previously declared in /home/escohsti/public_html/applications/rev/functions.php:7) in /home/escohsti/public_html/applications/functions.php on line 18
+[12-Apr-2021 02:59:43 UTC] PHP Notice:  Undefined index: amt in /home/escohsti/public_html/applications/rev/applications.php on line 48
+[12-Apr-2021 02:59:43 UTC] PHP Notice:  Undefined index: payID in /home/escohsti/public_html/applications/rev/applications.php on line 142
+[12-Apr-2021 03:00:15 UTC] PHP Notice:  Undefined index: foto in /home/escohsti/public_html/applications/rev/uploadPassport.php on line 21
+[12-Apr-2021 03:00:46 UTC] PHP Warning:  move_uploaded_file(uploads/img5.jpeg): failed to open stream: No such file or directory in /home/escohsti/public_html/applications/rev/uploadPassport.php on line 65
+[12-Apr-2021 03:00:46 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpGElAj8' to 'uploads/img5.jpeg' in /home/escohsti/public_html/applications/rev/uploadPassport.php on line 65
+[12-Apr-2021 03:12:06 UTC] PHP Notice:  Undefined index: fileToUpload in /home/escohsti/public_html/applications/rev/uploadPassport.php on line 67
+[12-Apr-2021 03:12:07 UTC] PHP Notice:  Undefined variable: stPhno in /home/escohsti/public_html/applications/rev/photoCard.php on line 65
+[12-Apr-2021 03:12:07 UTC] PHP Notice:  Undefined variable: stdLevel in /home/escohsti/public_html/applications/rev/photoCard.php on line 73
+[12-Apr-2021 03:12:07 UTC] PHP Warning:  Use of undefined constant weekday - assumed 'weekday' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/rev/photoCard.php on line 269
+[12-Apr-2021 03:12:07 UTC] PHP Warning:  Use of undefined constant month - assumed 'month' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/rev/photoCard.php on line 269
+[12-Apr-2021 03:12:07 UTC] PHP Warning:  Use of undefined constant mday - assumed 'mday' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/rev/photoCard.php on line 269
+[12-Apr-2021 03:12:07 UTC] PHP Warning:  Use of undefined constant year - assumed 'year' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/rev/photoCard.php on line 269
+[12-Apr-2021 03:13:09 UTC] PHP Notice:  Undefined variable: stPhno in /home/escohsti/public_html/applications/rev/photoCard.php on line 65
+[12-Apr-2021 03:13:09 UTC] PHP Notice:  Undefined variable: stdLevel in /home/escohsti/public_html/applications/rev/photoCard.php on line 73
+[12-Apr-2021 03:13:09 UTC] PHP Warning:  Use of undefined constant weekday - assumed 'weekday' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/rev/photoCard.php on line 269
+[12-Apr-2021 03:13:09 UTC] PHP Warning:  Use of undefined constant month - assumed 'month' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/rev/photoCard.php on line 269
+[12-Apr-2021 03:13:09 UTC] PHP Warning:  Use of undefined constant mday - assumed 'mday' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/rev/photoCard.php on line 269
+[12-Apr-2021 03:13:09 UTC] PHP Warning:  Use of undefined constant year - assumed 'year' (this will throw an Error in a future version of PHP) in /home/escohsti/public_html/applications/rev/photoCard.php on line 269
+[12-Apr-2021 03:14:06 UTC] PHP Notice:  Undefined index: user in /home/escohsti/public_html/applications/rev/invoice.php on line 4

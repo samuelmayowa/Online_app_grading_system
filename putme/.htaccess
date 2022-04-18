@@ -1,0 +1,5 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^applications\.escohsti\-edu\.ng$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.applications\.escohsti\-edu\.ng$
+RewriteRule ^erorss\.php$ "https\:\/\/applications\.escohsti\-edu\.ng\/index\.html" [R=301,L]
